@@ -22,8 +22,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+
+![6](https://github.com/imthiyas19/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120353416/5676067d-fb7e-4a8e-9f39-3ffe8533d587)
+
+
+
+### Name:MOHAMMED IMTHIYAS.M
+### Register Number:212222230083
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
